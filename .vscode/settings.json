@@ -1,0 +1,11 @@
+{
+    "C_Cpp.default.compileCommands": "/home/oslab/Desktop/john/fstack/f-stack/dpdk/builddir/compile_commands.json",
+    "C_Cpp.default.configurationProvider": "mesonbuild.mesonbuild",
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.sourceDirectory": "/home/oslab/Desktop/john/leveldb2/leveldb",
+    "files.associations": {
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "ostream": "cpp"
+    }
+}
